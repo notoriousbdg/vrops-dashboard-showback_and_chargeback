@@ -4,7 +4,7 @@
 
 Use these [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html) dashboards and reports to showback the cost of VMs and vSphere Pods and to chargeback the price of VMs.
 
-## Dashboard Screenshots
+## Screenshots
 ### Dashboard: Showback (VM Cost)
 ![Dashboard: Showback (VM Cost)](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/main/images/Dashboard-Showback_VM_Cost.png)
 
