@@ -1,5 +1,5 @@
 
-# Showback (Cost) and Chargeback (Price) Dashboards for vRealize Operations 8.1 and Cloud
+# Showback (Cost) and Chargeback (Price) Dashboards for vRealize Operations 8.2 and Cloud
 ---------
 
 Use these [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html) dashboards and reports to showback the cost of VMs and vSphere Pods and to chargeback the price of VMs.
@@ -25,15 +25,13 @@ Use these [vRealize Operations](https://www.vmware.com/products/vrealize-operati
 4. Import the dashboard at `Dashboards` / `Manage Dashboards` / `...` / `Import Dashboards`  
 ![Import Dashboard](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/main/images/Dashboard_Import.png)
 5. Click `Browse...` then select the file named [Dashboards.zip](https://github.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/raw/main/Dashboards.zip)
-6. The dashboard should now be available in in the dashboard list  
-![Dashboard List](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/main/images/Dashboard_List.png)
-7. The included dashboards are listed in the [Dashboards section](#Dashboards)
-8. Import the reports at `Dashboards` / `Reports` / `Import...`  
+6. The included dashboards are listed in the [Dashboards section](#Dashboard List)
+7. Import the reports at `Dashboards` / `Reports` / `Import...`  
 ![Import Report](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/main/images/Report_Import.png)
-9. Click `Browse...` then select the file named [Reports.zip](https://github.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/raw/main/Reports.zip)
-10. The included reports are listed in the [Reports section](#Reports)
+8. Click `Browse...` then select the file named [Reports.zip](https://github.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/raw/main/Reports.zip)
+9. The included reports are listed in the [Reports section](#Reports)
 
-## Dashboards
+## Dashboard List
 | Dashboard Name | Dashboard Path |
 |--|--|
 | Showback (VM Cost) | Shared Dashboards (GBrandon)/Cost |
