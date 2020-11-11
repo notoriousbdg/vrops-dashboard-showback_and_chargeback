@@ -4,7 +4,7 @@
 
 Use these [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html) dashboards and reports to showback the cost of VMs and vSphere Pods and to chargeback the price of VMs.
 
-## Dashboards
+## Dashboard Screenshots
 ### Dashboard: Showback (VM Cost)
 ![Dashboard: Showback (VM Cost)](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/main/images/Dashboard-Showback_VM_Cost.png)
 
@@ -25,13 +25,13 @@ Use these [vRealize Operations](https://www.vmware.com/products/vrealize-operati
 4. Import the dashboard at `Dashboards` / `Manage Dashboards` / `...` / `Import Dashboards`  
 ![Import Dashboard](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/main/images/Dashboard_Import.png)
 5. Click `Browse...` then select the file named [Dashboards.zip](https://github.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/raw/main/Dashboards.zip)
-6. The included dashboards are listed in the [Dashboards section](#Dashboard List)
+6. The included dashboards are listed in the [Dashboards section](#Dashboards)
 7. Import the reports at `Dashboards` / `Reports` / `Import...`  
 ![Import Report](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/main/images/Report_Import.png)
 8. Click `Browse...` then select the file named [Reports.zip](https://github.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/raw/main/Reports.zip)
 9. The included reports are listed in the [Reports section](#Reports)
 
-## Dashboard List
+## Dashboards
 | Dashboard Name | Dashboard Path |
 |--|--|
 | Showback (VM Cost) | Shared Dashboards (GBrandon)/Cost |
