@@ -6,29 +6,29 @@ Use these [vRealize Operations](https://www.vmware.com/products/vrealize-operati
 
 ## Screenshots
 ### Dashboard: Showback (VM Cost)
-![Dashboard: Showback (VM Cost)](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/main/images/Dashboard-Showback_VM_Cost.png)
+![Dashboard: Showback (VM Cost)](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/master/images/Dashboard-Showback_VM_Cost.png)
 
 ### Dashboard: Showback (vSphere Pod Cost)
-![Dashboard: Showback (vSphere Pod Cost)](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/main/images/Dashboard-Showback_vSphere_Pod_Cost.png)
+![Dashboard: Showback (vSphere Pod Cost)](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/master/images/Dashboard-Showback_vSphere_Pod_Cost.png)
 
 ### Dashboard: Chargeback (VM Price)
-![Dashboard: Chargeback (VM Price)](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/main/images/Dashboard-Chargeback_VM_Price.png)
+![Dashboard: Chargeback (VM Price)](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/master/images/Dashboard-Chargeback_VM_Price.png)
 
 ### Dashboard: VM Cost vs. Price
-![Dashboard: VM Cost vs. Price](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/main/images/Dashobard-VM_Cost_vs_Price.png)
+![Dashboard: VM Cost vs. Price](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/master/images/Dashobard-VM_Cost_vs_Price.png)
 
 ## Installation
 1. Import the views at `Dashboards` / `Views` / `Import...`  
-![Import View](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/main/images/View_Import.png)
-2. Click `Browse...` then select the file named [Views.zip](https://github.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/raw/main/Views.zip)
+![Import View](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/master/images/View_Import.png)
+2. Click `Browse...` then select the file named [Views.zip](https://github.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/raw/master/Views.zip)
 3. The included views are listed in the [Views section](#Views)
 4. Import the dashboard at `Dashboards` / `Manage Dashboards` / `...` / `Import Dashboards`  
-![Import Dashboard](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/main/images/Dashboard_Import.png)
-5. Click `Browse...` then select the file named [Dashboards.zip](https://github.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/raw/main/Dashboards.zip)
+![Import Dashboard](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/master/images/Dashboard_Import.png)
+5. Click `Browse...` then select the file named [Dashboards.zip](https://github.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/raw/master/Dashboards.zip)
 6. The included dashboards are listed in the [Dashboards section](#Dashboards)
 7. Import the reports at `Dashboards` / `Reports` / `Import...`  
-![Import Report](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/main/images/Report_Import.png)
-8. Click `Browse...` then select the file named [Reports.zip](https://github.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/raw/main/Reports.zip)
+![Import Report](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/master/images/Report_Import.png)
+8. Click `Browse...` then select the file named [Reports.zip](https://github.com/notoriousbdg/vrops-dashboard-showback_and_chargeback/raw/master/Reports.zip)
 9. The included reports are listed in the [Reports section](#Reports)
 
 ## Dashboards
